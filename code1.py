@@ -1,3 +1,3 @@
 this was my first line
 
-I addes this line through github
+I added this line through github
